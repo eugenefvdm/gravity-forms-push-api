@@ -4,5 +4,5 @@ A WordPress plugin that will send Gravity Forms data to another Business Informa
 
 See `/wp-content/plugins/gravity-forms-push-api/README.md` for more information
 
-Note: This is a prototype based on another production version. The production version is not open source.
+Note: This is prototype code based on another production version.
 
